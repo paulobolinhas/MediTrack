@@ -1,0 +1,49 @@
+{
+  "patient": {
+    "userId": "000000001",
+    "name": "Bob",
+    "sex": "Male",
+    "dateOfBirth": "2004-05-15",
+    "C.C.": "73606210 Z AR9",
+    "NIF": "526890125",
+    "insuranceCompany": "Freedom Insurance",
+    "address": "Example Street, nº14",
+    "phoneNumber": "935940912",
+    "e-mail": "bob@email.com",
+    "emergencyPhoneNumber": "921542859",
+    "bloodType": "A+",
+    "knownAllergies": "Penicillin",
+    "knownIllnesses": "Anemia",
+    "consultationRecords": [
+      {
+        "date": "2022-05-15",
+        "medicalSpeciality": "Orthopedic",
+        "doctorName": "Dr. Smith",
+        "practice": "OrthoCare Clinic",
+        "treatmentSummary": "Fractured left tibia; cast applied.",
+        "treatmentCost": "15.00",
+        "paymentDestination": "00000001200201002040"
+      },
+      {
+        "date": "2023-04-20",
+        "medicalSpeciality": "Gastroenterology",
+        "doctorName": "Dr. Johnson",
+        "practice": "Digestive Health Center",
+        "treatmentSummary": "Diagnosed with gastritis; prescribed antacids.",
+        "treatmentCost": "15.00",
+        "paymentDestination": "00000001200201002040"
+      },
+      {
+        "date": "2023-09-05",
+        "medicalSpeciality": "Dermatology",
+        "doctorName": "Dr. Martins",
+        "practice": "SkinCare Clinic",
+        "treatmentSummary": "Treated for Molluscum Contagiosum; prescribed topical corticosteroids.",
+        "treatmentCost": "15.00",
+        "paymentDestination": "00000001200201002040"
+      }
+    ],
+    "timestamp": 1701715352814,
+    "randomNumber": -342105665579045738
+  }
+}

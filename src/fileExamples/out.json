@@ -1,0 +1,49 @@
+{
+  "patient": {
+    "userId": "000000001",
+    "name": "Bob",
+    "sex": "Male",
+    "dateOfBirth": "2004-05-15",
+    "C.C.": "rnlQV2bJZoI3PTr7rOMZsE3XX3UaYneXGMc3ocjKrjve+zl4VyGQJIAbV1xkrX3kAbaEvnDRYbrUP+KnVqzdeySyBoDTymQyX55SKRmiNF0jwxfImHmqzp30Wpy1zUCL28R9dWkmnykjCgBtiSmhFAEHeYYz4m29lBI/FKagqEU2YuPm5ceut+QREH2YB2V/ahcILuDveYKT4HTXS0pcBgLNJ6Wo45eYEBHwL1BlHjlr3eBpozbaiM39BTK06tO74QubI7fer3gwQeEXNYsoYFyqBXv4LhyMw49W2kPBzUdbuy3uiSnQ0NcUKMxxZx0gMrzBojk9cC+KknmRPrbvYQ\u003d\u003d",
+    "NIF": "lN4Dj9a/Xh6sThjqd6g/8GTfe9Tx+vD0y059ZOaH8ouU3g9NPcCWiwjxPVGZeX6+Ho5x+8diko8wwrNq30ixeZM0OPzIjqISbJcvUt0Mh4mmM3VzMpm/1QfF3qjDdKsqMhPzkUeyAMHOiy6rQePHD059u5CWYGlNl++vUq/GcSD+OQ87yLatdw01R1ctNA+iDt+8JajzZvRwi9VFBASj7AlOfAN/7Gc+D4gc112s3ojTnBxAuhvCcICo2dNAxN1S2rGREFtXt56wp40wek4dW/8dEaESYo2soc2zDlMdQrx6LiJVR/X/Vk88FJf4n7SMGd57czvCF8Zgv+IYWRiEEg\u003d\u003d",
+    "insuranceCompany": "Freedom Insurance",
+    "address": "tT7zY6E7hL79UjU8IZUBLBarXnJ6doInc4K3KNrMIwufiEj4Yq8CJ3oLcShYdB/RpdAlpsPJ3epDNiw/AAyBIF3nL/x2psJLjY2Mgsc7KSg5jeaaC1AwEkPgevpim7pl7f3GAs7N68PGhizo+FqiyBzuoFFdHyMHXgrYRqDztJKFVgVCovVwaqccHxqZY7StyEyfFxfwgLqHZ3O+/hwgw/oA/FykqPtgBtp6ov2W1QIb9PGdKe0PFF8woi4pxssv3TE0AQAbdn6dQeGfzCG5uNaB5ufaUjHz4T9dczhKb8zuKON4pAgXB650KVxNpdqR9Y6VQ8ncHWtD4Stwnvr7Mg\u003d\u003d",
+    "phoneNumber": "N2F8gbwklg4WQOEtYns1HGPsm1y8sOlsSVrewcPz01UxR6QHyexRKDC+Yw9QCR+qIC9elDpXd0VLaKCzaiIuBRq4gZGMjUegZYVLT2IlXEtKi3D2hks8tiqikll2+SK/ZV4UN+Dii0V8VgxUpLUOfdP8F7VR8NzTh1Eow2WYeAEx4RsJzus4qbB9+T+321m7+UaANxrErSA3BKiElxRLSoTIUGLc8KRj0k3xXgnXLnUTp1ygagzr1GYF1rjCk6KSpCemevAQ0C5eUzn7YtXhWVapJsvuxf4S53cdZ3TD+6u2dUwi8sVONsEJJH7+jmFGu5pzWFsKrQBzqER49ppaUA\u003d\u003d",
+    "e-mail": "TEurK+8tLp+1hsnwsh/vB43ePwGKHTBEpwoUqmIDYKxw4LuazZGeG9AeloRrwz/k9+OCUMlDRxrycyYgmPfKeVzlm4hMmpvSVx8kGupenIuhrb4lLB7hC6IGqIdbtH1ofh/Jdfb5eZukFxoktfE2F77ZNbVZzJQjbkwSl73vdyjjh2T2Ab9IJ9HdqcKUvBMHoV4cXqJFPZep5GNCuxgCLXs+EXLQ5+KNQC5xqpPo2m7TGy8mfSKS+BBxUXBinM8/C2dGbpr7PykQ/2cajtj4w9PzyNu1JQ3DUjoKUrMOGWDZV5t0n3wi7eszJxP/1+DqSJyF/i0pRPVg8Ojyv7LMGQ\u003d\u003d",
+    "emergencyPhoneNumber": "HWBByLyNTbHNJs0yzbXPfWsK/9OBnZ+prqG39yxCMPyNqFikFSrIiuYbiFzLu4LJ2jhILbFJNInQGV3nNLI8cb6GFr1pKqcbIQ8+AmlU/cW7zaYL+TtS4XMHBUK95smzzz6sCo7WE6SJTduYgX+7QycXihT/qlyjLZemRT3z6acqQpMOG2twqfy+wUrdmgQjTuNT/6ZRpuvrTvc7UkdLQaE1INeWr/iGwC7190kc0DBFwPu6QLHY8t72JSQz1b16OSAHQ5pJTK3DvGyQDMHxMhZjuupVCCsaQrTKga93c7eoOPqLVIDLJR/nJ3Kck5l09s3IhGd5XM+U+ZfuJICpsA\u003d\u003d",
+    "bloodType": "bqkLgqFNQrnQucOUOrc20nKHRu/g/uYXf5WVOqfhqssAe/JqVpLmAn0Tj9rCMr6MiiwxzTpByzwPBjMq3qH+s05qrCxUer5KwVkac8kY5ncJhghKaPs7FBi/U85pvohfFKcbUJekMpHSpsD/xzx2+RFGdsW/hWuEnlieCG39MY9omstVYSV5iN24vfGpHy+Ng8sVyUILiPeOFyj2vrCS13Z6xhOdc3ZKk8A49/jPGaKLVTiqajF6IfWeGA3tYa0owYsNiwEGCFVmeTnGJlpF8HiFsPDyjMcrJhrwgZBYkUqoRLsUQrliwfZIrno+7Ao6IzipdbyQoW1JI3smBdNwRA\u003d\u003d",
+    "knownAllergies": "WzdLO5O81IEayEUHBmU6KR6fIrh1DFN6C2p3GkbhBKdRsOlpcOq8zseLwXqUNHfg0WcPz0LnmgvluEE8iIZtx7he0/Iq7pvNntM4Mk/KCjxG541ZFRvi5gIur6TrCC+DcBN7Y7GBlqJKRkCsFpwpdFt9JQEKqByNQG615dEHqT2YffZc6Ia+GwngvnfxqmMY3kZkYIELmub7mQxjFE+dYenipSd6SQhJtmZZLhhM7sr9/w3JI18kMAUUDUfHlTQSOQy6ja11fhqDqhy1ShkgED1VXl2a21Xlt4p4e+KHzCe7SnfGcFkwuggXYSyauSwN9eo7h6d+facv1ZzhG1gLnQ\u003d\u003d",
+    "knownIllnesses": "raXKLi2tLcrHp+U3b4X1ktjXOcSRwsawwkvHkIFsVUNRu/3+xsPYwWHsTm0Sdcu2mRNm5dS8w55h4tGZRwKTfNP1+crB1oO5fOwBeKnOZXpL8OaDlaKZ+QXnbYvb0CjQvocsfvrY9RkC487ah+xY2X3aapKSbWDYywZPpa5bE7qfuqOO1pHR+QP+ld+GCCykLUKJK3TDOTqjvoR22ac1uqPEmmu6IsI++EyPrtTNNflO2rb5ZSUsAnUvw0IjGozJblBp8Hsl/5eQggc9KsRX3/+jb72T05/H/k3bhxCQS1F2EnXbZWWiXz8bWp40wcwl8ONWc3I1V4+p//nfVb1QQg\u003d\u003d",
+    "consultationRecords": [
+      {
+        "date": "HwoCCuiiHo/pLpxzxa7MKFkDefVbmKE83K8HI2Hbnuv8q0Vh9J7fLC4oUfe76znDND7kbH8V47aCrOtsJyKD9CAdREazSqZdjMscgx/ncxzZM52Y3NoAufZqjZu7XCsSkyCQyoN3ft/8UQZhULIPFgR8b4mVR0zPXRL3Foup5S0TI8mdgCgUbNYkFWr4NYwG9s1FQBUhVOkirGIXEl062LjBpelOcrbW8AS4EAPerbx1HoBzbROs6HQiakxncIZZzbBULBrFa+c3tMINXBkXGw/k53kDB5Z58NRB96ka2eF+GqmLoqqk3IEQ3o+3DBwvbIIlwU5gS7ZGHaZZwI+jNQ\u003d\u003d",
+        "medicalSpeciality": "Orthopedic",
+        "doctorName": "owGwQyRxGggzp7lfjlzvxXK4dgcnCNFmsjVL0JCdE6g5ZkJAxer8NhPwDvfwSkZ+jltcbUWPemsYKdL+wZ0rLGIKCK598zrm9lm1RWQ7lm0oxubhjGwCCsPIF9CWZzW3bEPtXudawS1rt9RgHWsNhjEqPpKdUyxxA0m0AOdMaPMjey9olDPL9bk1aBfoqIMYz5ZnG6XXCknl+QDVu3UsC12Z/vqAu+s6mwZFqdtx6FrNqyAcHtIuZN2NtGgGKOh6rFtfXMFvp3KQrTym4x2O06Or+bfBThXtgqfZ0WX6vsAqt7od2+I1nFofiESNkx8zgo4nsW536sg/fdwggtJz4A\u003d\u003d",
+        "practice": "M9RTaxF5fpvoTgD/45mqQRhimqSJT2hax8ehKjfyndJcllsBGGf62PKht5m0vNmaJsODLRO/WHXP4pxTOB8knsG/3jnhzHvQBRPJzASUITzzl80fiUcpQ2Ez5l3Dt4fQue9t4NstXoUuXNVnxUi8+Ohqp+GcNT9uhJJ4GVzqaRF0dqAzM+6oi1/uP06D3s42I1i3EHQqHAD/fD7+lZ2VupW02cP2yfKoloXGupKsh7Ogv+LPu9J1rjEaDyXzLpqHFrllakYg6mVdxkKX7H1fGd9o4kxGrljyfj7tvvz5RbY1DtaWcb+voOQ2q50e2HY1WYc8ehwifgom23GF3IbX0A\u003d\u003d",
+        "treatmentSummary": "aF9CUJxhV9IhVqU9tHxYUscAPokidpSNIzATEluoM0n6LWallx0Nfw02NhkS3jfnQ9iZq6Ii6bhzVnVibTH3S2hOMZwmuOIMpq8w2WLlI48k9+o7Hy1M6wyiL776cfqtiqQATG6CCv3WbZVSTcp+z4jPHO6jK09NAxO/2559hLBNFw7v5MGwgQqV3ebYGjrKY6U4ENjsTh34018s7wesHMBRJGF4g0F5R+Kul8sOh7mx1FvpZ/v32X/4UMV7VEmaPtSfZAhYUPfezh8wXRa2ebKD0h1dGsAIAeGTTcjxJIu3Bwn1vwCyb46ynvqsNkgX13bBszHWAHix9XxGBHAZZg\u003d\u003d",
+        "treatmentCost": "15.00",
+        "paymentDestination": "00000001200201002040"
+      },
+      {
+        "date": "Zf7X1XgGxUL/NHBiXVWLhqNjGaAMWnjpkrZd/B2xLxJ/2pFyDh8RIGRtsMVBmaL30g59cAsn2Whz740D33zYclQFb9sUAPY+r+vbSWbp6ybgWQ451JECJK4DbOWp7DxUL31Xu4Sm+ikgl6wlAYx9YV8+HpR3aqRcdZiR3azD4+SaYkGuPQWNeiE+0jzn8PNQe471qILCfw17jhsgdJ9B7lJ5/E+uTKqS7kBFcLPcKjtx0f3HaFGd7uQu/qzAQilwqE6itgotYsQp+MlSsoJ1vbXc1ZvLvrtEQLxrV4NQLhdVCU+ZVPLQguqfdku6LAwdJasVj7FcmXs/sgccrATGbg\u003d\u003d",
+        "medicalSpeciality": "Gastroenterology",
+        "doctorName": "UHTsFJpYwhTvnO9TcWQ5TH3p1aWhhwGYLR8Sy+SZZKQOVG+txUnEvSiPKarqLkBvlzgLmUzjLf/5Ok7Yj9P/q6N4hJWojNK1k93rpKEp+iBDCDmn75zzln3SB2n2kCmnErKfB+u/KpR/OhswHHg+yVEESHLB4av1HtswTPtAyXCOqvKwfS1pq71QdjdkwN4J48ZJiXIm1OozqdxZNIJEWf3lPgN8M5EE2ritOapOMMlbtCxaIVHJIjokPb4Jqhsz5B8hejBBLz0ijyiWhIjo9mpN6AwV6EH0SgFd0qYtRYSYwz8TVm/Tb+vGbovOIDeMwN/qSLfXX1pWMUNxwIijjA\u003d\u003d",
+        "practice": "rO9xRhr1p2dD9VykfjuXaOSCnqd02/Jn9rd1XQQAHFNIi6+3PBZkIDh+Uw3UaI3vVzwQjiGP2QEsf+VLqImlAXKnp1IMoNvgcjHcwX1QBrjUnYzRV/CS5H8DCWWUHlOZNPSKXtoe4QUTLItd3I/okQ5JGSa4Aqa4IXLXTC/yTGRoHiYwZzcMR0Ri863q1/ookX99xp5k4fKJOns+sBuhzQxl+z+PF8w7UfyhIeMU+r5Q5iqhmWci6Z9Z8+Jelsc4NdfV8cuI5ErDJOqRvTeR0kzMDYznsMgx5U/i90VZsWCZyAfxj0vg83zhCRbw0iHr7asNexcpJWbOoeb0tUBgiw\u003d\u003d",
+        "treatmentSummary": "qRKLCpBTKFW4imSnKkEjcb9nweqR3Kn/Cya0uCyLlHGI7JpJ8dkHajXzLsoha9ZY4jNaAn64sPDoNs9nQp49e1PBZY/R0scv9kqE2HnPrgvSh1pF2RJiiFE4LuhUvTDvfZ8lxLSs6wt1Jgx1nx7jR8feP4nfWj6bGPeRnjt5XCPXM9vsuvR8/rmqaALkIlpRVzy3QEdPNoAVEyGHVHdEn4YEDden9lDOza8IHBTmo9W3dmOWIwrFeYlzJ5TLD6+5XsIjppddx5YK16Ix9sTiqV7ZBVW6ffVNj0WGp3xnbn0DwhH2FudKtEht+yl3e6dcLsOvIr7KSNLOLCW4NNGniA\u003d\u003d",
+        "treatmentCost": "15.00",
+        "paymentDestination": "00000001200201002040"
+      },
+      {
+        "date": "QodkjzpE3d5D4qONMcDOM0TqXqB1I/JOkDrMpAGpcNt/YKPUIMGVJwy6vB/1CmPn4eHZWhKQoIXkhjQ928cxYS9RTLntUH//UVprmK5Xs9t0cLQdfhO+Rpc57BbiGnNJfexj13wRZyr2iBGUu2LflCfnPcIi1VrJBAvHuKnwPVgya7/N6jUNcQCW6By8pGCQAeyOz5gc9bPIkvOeZBjpxeXPadplLxFsDnnJ5JlS/0NnWBbbNMeONUIZYMh0fR3Nnf753DwgQ0lT8Rbg2Tx/N9unzb+Fm1baFtl/EQwatwAoKOQb70FPrFT0DPWteD/Hvf3EGEjYOozIjlwT8/QiLw\u003d\u003d",
+        "medicalSpeciality": "Dermatology",
+        "doctorName": "Xf5Eg3L9hUZ7eAcVZJxChPEdn+F2NYNR5kMPnPdUkZqOoxhWH06s+xsQubxw0ImQqfvC4BF8al9DXBSBh8eNKmg01eccsx5MDtm+jTgwWHjc49pBf8VP7tR4sE9rd1N01juruvTeRT1PShBM2cSXWKiFHcOvn97js0Dp56f01bS2hU5ROJip6vfnOvhFBybI0+TO2WGne2PmzWq5J7wTJo19ee19TSd4ONEugdQxku4Tz1dUCl1LuPNO49boPxNH2y93Z17LhfQhIFI0+OTwLqoaNT+4H0Vg+wD2wOzBjeJAfLMzK+IVMO6sJ3g3tEor7sglPOt5m8XyL4rDkhgY2Q\u003d\u003d",
+        "practice": "nsm/41Tl0BXDiQ0TK02ocSKjyahDHe2khKs8JMXLMvHLbCHvu1n/PQW4eCsOWHP0Rt2UvjZ3Dly6sizDgG956SneRD3veOQON6NACA3tms3RpGZINmEBEgl74ZHQzgpRmJ/O+EBu3fUbJ4IsmJQ0gOsonifjRwUPXumPZ4QqIwwNlOaitnfSQaL69A4ci9oHYIHtWI+4L1rjj8DVj92Gg6k2jGNDA5B5Mzsqw+N9Lte9bzyoZbja8HZCVOtDAEOOR5cCWbmj4U1DPf5tTGCqELMgPND12P+ryRkrlUZUChgAvdjcJXEc7jyDZAKadRU9M1h3EXkx92x6e8qMUXedtg\u003d\u003d",
+        "treatmentSummary": "FUNuTB36lM5weuU4iLCTjK6k21O+L3b4UfbAVS+Cpeb2V5eMr4zAazANu0+A0ZyE8nptw/fziQgcapVrL9F7MRhJUpAIhK14Nz50WPX89axSB/jijpMRgFScT7cf3vfvr93F7RfX0udzVb8eW14FHpQ9zt6wnyOC4aFmvRT2f+YROaVLWWAoFdA0L4mgDZtKbM4eNJAgYk6A1KlvEaqpMfrY/QU4C8xvOOKJmnBBkXHfxYZIAe16O10L5MsED4X58Dy2GcS0SucRPzSSqMC32xDKn/O3ix0iPuAPUUc0QfD6NAVlv0NopNlmNNLLaK+iR+rpcJ711kIi39tTsTRyEA\u003d\u003d",
+        "treatmentCost": "15.00",
+        "paymentDestination": "00000001200201002040"
+      }
+    ],
+    "timestamp": 1701641472957,
+    "randomNumber": -2339700811993363499
+  }
+}

@@ -1,0 +1,9 @@
+keytool -genkeypair -alias doctorKeys -storetype pkcs12 -keyalg RSA -keystore doctorTrustStore
+
+keytool -exportcert -alias patientkeys -storetype pkcs12 -keystore patientTrustStore -file patientRSApub.cer
+
+keytool -genseckey -keystore specialityTrustStore -storetype pkcs12 -keyalg AES -keysize 128 -alias OrthopedicKey
+
+keytool -importcert -alias serverCer -file serverRSApub.cer -storetype JKS -keystore serverTrustStore
+
+keytool -list -keystore serverTrustStore
