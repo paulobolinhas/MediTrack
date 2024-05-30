@@ -9,9 +9,6 @@
 | 110976   | Paulo Bolinhas      | <https://github.com/paulobolinhas> | <paulo.bolinhas@tecnico.ulisboa.pt>      |
 | 99323    | Rui Moniz           | <https://github.com/RuiMFMoniz>    | <rui.moniz@tecnico.ulisboa.pt>           |
 
-![Rui Martins](readmeContent/img/ruimartins.png) ![Bob](readmeContent/img/RuiMoniz.png) ![Charlie](readmeContent/img/paulo.jpg)
-
-
 ## Contents
 
 This repository contains documentation and source code for the *Network and Computer Security (SIRS)* project.
